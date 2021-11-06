@@ -1,0 +1,5 @@
+conda create n- SaveArtic python=7
+
+conda install -c conda-forge sentinelsat
+conda install -c anaconda pandas 
+conda install ipywidgets==7.4.2
